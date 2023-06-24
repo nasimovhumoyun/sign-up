@@ -135,7 +135,7 @@ const validateInputs = ()=>{
     
   }
   if(allConditionsTrue) {
-    // window.open("thanks.html","_self")
+     window.open("thanks.html","_self")
   }
 
 }
